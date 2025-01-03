@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou Abimael Dos Santos Pereira!
 
-<!--
-**Abimael-Pereira/Abimael-Pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Estudante de Ciência da Computação e Futuro Desenvolvedor Full Stack
+Atualmente, estou me aprofundando no desenvolvimento **full stack**, com um foco especial em **front-end** utilizando **React**. Estou sempre em busca de aprendizado e novas tecnologias para aprimorar minhas habilidades!
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias que estou estudando:
+- **Linguagens:** JavaScript | TypeScript
+- **Front-end:** React.js | Next.js
+- **Back-end:** Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael-Pereira&layout=compact&theme=dracula)
+
+### 📫 Contato e Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abimaeldossantospereira/)](https://www.linkedin.com/in/abimaeldossantospereira/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abimael_sp)](https://www.instagram.com/abimael_sp)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abimael.sp@gmail.com)](mailto:abimael.sp@gmail.com)
+
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia." – Robert Collier
+
+---
+Sinta-se à vontade para entrar em contato comigo! 😊
