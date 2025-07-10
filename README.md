@@ -6,7 +6,7 @@ Atualmente, estou me aprofundando no desenvolvimento **full stack**, com um foco
 ### 🚀 Tecnologias que estou estudando:
 - **Linguagens:** JavaScript | TypeScript
 - **Front-end:** React.js | Next.js
-- **Back-end:** Spring Boot
+- **Back-end:** Node.js
 
 ### 📊 Estatísticas do GitHub
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Abimael-Pereira&layout=compact&theme=dracula)
